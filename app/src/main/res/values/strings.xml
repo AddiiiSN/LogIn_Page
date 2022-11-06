@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Log In</string>
+    <string name="hi">Hi !</string>
+    <string name="welcome">Welcome</string>
+    <string name="i_m_waiting_for_you_please_enter_your_detail">I\'m waiting for you, please enter your detail</string>
+    <string name="username_email_or_phone_number">Username, Email or Phone Number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
